@@ -1,0 +1,14 @@
+
+    1  cd c:/RajB*/Challenge-19
+    2  git config --global user.name Raj Tolani
+    3  git config --global user.email admin@tolanicollection.com
+    4  git clone https://github.com/rajtolani/Challenge19-FinTechFinder.git
+    4  ls
+    6  cd Ch*
+    7  ls
+    8  git status
+    9  git add .
+   10  git commit -m "Final Submission of all code, Readme File and Screenshots"
+   11  git push
+   12  git status
+
